@@ -128,9 +128,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Email: [DevTruce@Gmail-icon]()
+Email: [DevTruce@Gmail.com]()
 
-Discord: [Xzypher#9999]()
+Discord: [xzypher.]()
 
 Project Link: [Museum of Candy](https://github.com/DevTruce/museum-of-candy)
 
